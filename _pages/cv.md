@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download full CV](https://sophiexingsu.github.io/files/Sophie(Xing) Su_CV.pdf)
+[Download full CV](https://sophiexingsu.github.io/files/sucv.pdf)
 
 Education
 ======
