@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A.Cum Laude in Psychology and Economics, Cornell University, 2019
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - Present : Research Assistant
+  *· Data manager of the Imaging Genetics in Specific Reading Disability (SRD): Meta- and Mega-analyses project. Created and maintain a large dataset of both   behavior and neuroimaging data using R and bash script
+· Project lead of the automatic quality check of nueroimaging data project. Build regression models and plots to determine imaging quality using R and EXCEL
+· Preprocess,reorganize and clean neuroimaging data for future analysis
+  * Supervisor: Dr. Nicole Landi 
 
 * Fall 2015: Research Assistant
   * Github University
@@ -36,24 +36,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
+#  
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#   {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead of a bible study group at Cornell University 
