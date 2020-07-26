@@ -16,10 +16,10 @@ Education
 
 Research experience
 ======
-* August 2019 - Present : Research Assistant
-  *· Data manager of the Imaging Genetics in Specific Reading Disability (SRD): Meta- and Mega-analyses project. Created and maintain a large dataset of both   behavior and neuroimaging data using R and bash script
-· Project lead of the automatic quality check of nueroimaging data project. Build regression models and plots to determine imaging quality using R and EXCEL
-· Preprocess,reorganize and clean neuroimaging data for future analysis
+* August 2019 - Present : Research Associate
+  * Data manager of the Imaging Genetics in Specific Reading Disability (SRD): Meta- and Mega-analyses project. 
+  * Created and maintain a large dataset of both behavior and neuroimaging data using R and bash script
+  * Preprocess,reorganize and clean neuroimaging data for future analysis
   * Supervisor: Dr. Nicole Landi 
 
 * Fall 2015: Research Assistant
@@ -27,14 +27,14 @@ Research experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 #Publications
 #======
