@@ -24,7 +24,7 @@ Research experience
   * Attention, Memory and Perception Lab @ Cornell Univeristy 
   * PI: Dr. Khena Swallow 
 * June 2018 - August 2018: Summer Research Assistant
-  * Stanford Neurodevelopment, Affect, and Psychopathology Lab @ Standford University
+  * Stanford Neurodevelopment, Affect, and Psychopathology Lab @ Stanford University
   * PI: Dr. Ian Gotlib
 
 * Jan 2019 - May 2019: Research Assistant 
