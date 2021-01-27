@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Bio
+About Me
 =====
 I am currently working as a Reserach Assisant at  <a href="https://haskinslabs.org/">Haskins Lab</a> (PI: <a href="https://landi.lab.uconn.edu/"> Dr.Nicole Landi</a>).
 <br><br>
