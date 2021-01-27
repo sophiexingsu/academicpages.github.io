@@ -9,7 +9,7 @@ redirect_from:
 ---
 Bio
 =====
-I am currently working as a Reserach Assisant at  <a href="https://haskinslabs.org/">Haskins Lab</a> (PI: <a href="https://https://landi.lab.uconn.edu/people/" Dr.Nicole Landi).
+I am currently working as a Reserach Assisant at  <a href="https://haskinslabs.org/">Haskins Lab</a> (PI: <a href="https://landi.lab.uconn.edu/"> Dr.Nicole Landi</a>).
 <br><br>
 I graduated from Cornell University in fall 2019 with a degree in Economics and Psyhcology. My honors thesis explored the relationship between goal/action change perception, event segmentation and perspectives. 
 
